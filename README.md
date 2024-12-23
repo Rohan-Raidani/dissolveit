@@ -121,7 +121,7 @@ function App() {
 }
 ```
 
-## Contributing
+## Demonstration site
 
 Cooing soon ...
 
