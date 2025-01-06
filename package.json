@@ -1,6 +1,6 @@
 {
   "name": "dissolveit",
-  "version": "2.0.1",
+  "version": "2.2.1",
   "description": "A customizable dissolve effect component for React Three Fiber applications",
   "keywords": [
     "react-three-fiber",

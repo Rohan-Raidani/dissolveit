@@ -123,7 +123,7 @@ function App() {
 
 ## Demonstration site
 
-Cooing soon ...
+[Demo](https://dissolve-demo.vercel.app/)
 
 ## Contributing
 
